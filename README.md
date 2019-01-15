@@ -1,3 +1,4 @@
+#【Go程序设计语言】（美） 艾伦A.A 多诺万（Alan A.A.Donovan） (美)布莱恩.W.柯尼汉（Brain W.Kernighan）著
 # The Go Programming Language
 
 This repository provides the downloadable example programs
